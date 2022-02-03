@@ -2,3 +2,9 @@
 
 # figma-projects
 First steps of an enthusiast... 🚀 
+
+## `Figma`: Ferramenta de UI feita para criar, colaborar, prototipar e inspecionar.
+
+<br>
+
+<img align="center" alt="" width="660" height="690" src="https://raw.githubusercontent.com/a-hayana/figma-projects/main/projects/primeiro-projeto.png">
