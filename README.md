@@ -3,7 +3,7 @@
 # figma-projects
 First steps of an enthusiast... 🚀 
 
-## `Figma`: Ferramenta de UI feita para criar, colaborar, prototipar e inspecionar.
+## `Figma`: Ferramenta de designer de interface do usuário (UI) feita para criar, colaborar, prototipar e inspecionar.
 
 <br>
 
